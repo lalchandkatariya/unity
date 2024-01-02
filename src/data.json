@@ -1,0 +1,79 @@
+[
+    {
+        "firstName": "lalchand",
+        "lastName": "saini",
+        "email": "lalchand@gmail.com",
+        "phoneNumber": "988118710",
+        "address": "jaipur, rajasthan",
+        "dob": "2024-01-11",
+        "educationDetails": {
+            "degree": "BCA",
+            "college": "uniraj",
+            "startYear": "2013",
+            "endYear": "2017"
+        },
+        "experienceDetails": {
+            "company": "facebook",
+            "startYear": "2017",
+            "endYear": "2019"
+        }
+    },
+    {
+        "firstName": "Rahul",
+        "lastName": "saini",
+        "email": "rahul@gmail.com",
+        "phoneNumber": "988138710",
+        "address": "jaipur, rajasthan",
+        "dob": "2024-01-11",
+        "educationDetails": {
+            "degree": "MCA",
+            "college": "kota university",
+            "startYear": "2013",
+            "endYear": "2017"
+        },
+        "experienceDetails": {
+            "company": "amazon",
+            "startYear": "2017",
+            "endYear": "2019"
+        }
+    },
+    
+    {
+        "firstName": "kamal",
+        "lastName": "saini",
+        "email": "kamal@gmail.com",
+        "phoneNumber": "988321110",
+        "address": "jaipur, rajasthan",
+        "dob": "2022-01-21",
+        "educationDetails": {
+            "degree": "BCA",
+            "college": "uniraj",
+            "startYear": "2013",
+            "endYear": "2017"
+        },
+        "experienceDetails": {
+            "company": "facebook",
+            "startYear": "2017",
+            "endYear": "2019"
+        }
+    },
+    {
+        "firstName": "Radhe",
+        "lastName": "saini",
+        "email": "radhe@gmail.com",
+        "phoneNumber": "988138710",
+        "address": "jaipur, rajasthan",
+        "dob": "2024-01-11",
+        "educationDetails": {
+            "degree": "MCA",
+            "college": "kota university",
+            "startYear": "2013",
+            "endYear": "2017"
+        },
+        "experienceDetails": {
+            "company": "amazon",
+            "startYear": "2017",
+            "endYear": "2019"
+        }
+    }
+]
