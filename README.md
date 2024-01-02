@@ -1,13 +1,9 @@
 # React + Vite
 
-## First Step
-  git clone https://github.com/LCkatariya/curd-app.git
-
-## Second Step
-  cd curd-app
-
-## Third Step
-  npm run dev
+## Please Follow Below Step
+ - git clone https://github.com/LCkatariya/curd-app.git
+ - cd curd-app
+ - npm run dev
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
