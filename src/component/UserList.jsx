@@ -5,8 +5,8 @@ import UserFormDetails from './UserFormDetails'
 
 
 const UserList = () => {
-  const userList = useSelector(state => state.userDetails)
-
+  const userList = useSelector(state => state.users)
+  // console.log("data getting from userList  ",  userList)
   return (
     <Accordion defaultActiveKey="0">
       {userList && userList.length > 0 ? userList.map((item, index) => {

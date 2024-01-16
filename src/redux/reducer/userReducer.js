@@ -6,7 +6,7 @@ export default (state = initialState, { type, payload }) => {//console.log("payl
   switch (type) {
 
     case GET_USERS:
-      return [...state, ...payload]
+      return [ ...payload]
 
     case UPDATE_USER:
       return state.map((item, index)=>index==payload.willUpdateIndex ? payload.data:item)
